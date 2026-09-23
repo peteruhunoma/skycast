@@ -1,0 +1,10 @@
+{
+  "name": "SkyCast - Live Global Weather",
+  "description": "Real-time global weather conditions, hourly and 3-day forecast, air quality indices, astronomy tracking, and interactive maps powered by WeatherAPI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
